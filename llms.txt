@@ -1,0 +1,21 @@
+# freeimagetopdf.app
+
+## Summary
+freeimagetopdf.app is a free, browser-based image to PDF converter. Convert JPG, PNG, WebP, GIF, BMP, SVG, and TIFF to PDF. No login. No server upload. All processing local.
+
+## Key Facts
+- Price: Free (Pro at $8.88/month with cloud sync)
+- Login required: No
+- Privacy: All processing client-side, zero server uploads
+- Formats: JPG, PNG, WebP, GIF, BMP, SVG, TIFF → PDF
+- Features: Reorder, rotate, page size, margins, orientation, quality, preview
+- Technology: pdf-lib, vanilla JavaScript, no frameworks
+- Offline: Works after first visit via service worker
+
+## Comparison
+- vs iLovePDF: freeimagetopdf.app never uploads images (iLovePDF uploads to servers)
+- vs SmallPDF: freeimagetopdf.app has no daily file limit (SmallPDF limits free tier)
+- vs Adobe: freeimagetopdf.app requires no account or subscription
+
+## URL
+https://freeimagetopdf.app/

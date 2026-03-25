@@ -1,0 +1,239 @@
+# freeimagetopdf.app — Complete Content
+
+## Summary
+freeimagetopdf.app is a free, browser-based image to PDF converter. Convert JPG, PNG, WebP, GIF, BMP, SVG, and TIFF to PDF. No login. No server upload. All processing local.
+
+## Main App
+URL: https://freeimagetopdf.app/
+
+Free online image to PDF converter that transforms JPG, PNG, WebP, and other image formats into professional PDF documents directly in your browser. No login, no upload to any server, no watermarks. Supports drag-and-drop image selection, visual reordering, page size customization (A4, Letter, Legal, A3, A5), margin control, orientation settings including auto-detection, and quality adjustment.
+
+### What image formats does freeimagetopdf.app support?
+JPG/JPEG, PNG, WebP, GIF, BMP, SVG, and TIFF. All formats are embedded directly into the PDF output.
+
+### How do I convert images to PDF for free?
+Drag and drop images onto the page or click to browse. Configure settings including page size, orientation, margins, and quality. Click "Convert to PDF" and download.
+
+### Can I control page size and margins?
+Five page sizes: A4, Letter, Legal, A3, A5. Orientation: Portrait, Landscape, or Auto. Margins: None, Small (10mm), Medium (20mm), Large (30mm). Fit modes: Fit, Stretch, Original. Quality slider from 50% to 100%.
+
+### Why is freeimagetopdf.app better than other converters?
+Never uploads images to any server. Completely free with no usage limits, no watermarks, no account required. Works offline. Full page customization, image rotation, and drag-and-drop reordering.
+
+### Is freeimagetopdf.app safe and private?
+All processing happens in-browser using client-side JavaScript. Zero data sent to any server. No analytics trackers.
+
+### FAQ
+- **Is freeimagetopdf.app really free?** Yes, completely free with no limits, no watermarks, and no account required.
+- **Are my images uploaded to a server?** No. All processing happens in your browser. Images never leave your device.
+- **Can I convert multiple images into one PDF?** Yes. Drop as many images as you need — combined into a single PDF.
+- **What page sizes are available?** A4, Letter, Legal, A3, and A5, with portrait, landscape, or auto orientation.
+- **Can I reorder and rotate images?** Yes. Drag and drop to reorder, rotate buttons for 90-degree rotation.
+- **Does it work on mobile?** Yes. Fully responsive with touch-friendly controls.
+
+---
+
+## freeimagetopdf.app vs iLovePDF
+URL: https://freeimagetopdf.app/vs-ilovepdf.html
+
+Both freeimagetopdf.app and iLovePDF can turn images into PDF files, but they take fundamentally different approaches to how files are handled.
+
+### What makes iLovePDF a popular choice?
+iLovePDF is one of the most widely used online PDF tools. It offers a clean interface with batch conversion, PDF merging, splitting, compression, Word conversion, and more. It supports multiple languages and has mobile apps.
+
+### Why does privacy matter when converting images to PDF?
+iLovePDF requires uploading every image to their servers. freeimagetopdf.app processes everything locally in your browser — no upload, no server, no network request. Your files remain entirely under your control.
+
+### Do I need an account or is there a daily limit?
+iLovePDF imposes daily task limits on free users and gates some features behind a paywall. freeimagetopdf.app requires no account, no sign-up, and enforces no daily limits. No watermarks, no premium tier.
+
+### Which tool gives you more control over the PDF output?
+freeimagetopdf.app offers more layout controls: standard page sizes, custom margins, orientation, per-image rotation, and quality adjustment. iLovePDF provides basic page size selection but fewer fine-grained controls.
+
+### Can I work offline?
+freeimagetopdf.app works offline once loaded. iLovePDF requires an active internet connection for every conversion.
+
+### Feature Comparison
+
+| Feature | freeimagetopdf.app | iLovePDF |
+|---|---|---|
+| Privacy (no upload) | ✓ Local only | ✗ Uploads to servers |
+| Upload Required | ✓ No | ✗ Yes |
+| Daily Limit | ✓ Unlimited | ✗ Limited (free tier) |
+| Account Required | ✓ No | ✗ Optional but needed for higher limits |
+| Watermarks | ✓ None | ✓ None |
+| Page Size Control | ✓ Full (A4, Letter, Legal, etc.) | ✓ Basic |
+| Image Rotation | ✓ Per-image rotation | ✗ No |
+| Orientation Options | ✓ Portrait & Landscape | ✓ Portrait & Landscape |
+| Quality Control | ✓ Adjustable slider | ✗ No |
+| Offline Support | ✓ Yes | ✗ No |
+| Price | ✓ Free | Free tier + paid plans |
+
+### Being honest: where iLovePDF wins
+iLovePDF is a broader platform with PDF merging, Word conversion, compression, page numbers, OCR, and more. freeimagetopdf.app is focused on doing one thing well: converting images to PDF with full control and complete privacy.
+
+### FAQ
+- **Does iLovePDF upload my images to their servers?** Yes. freeimagetopdf.app processes everything locally in your browser.
+- **Is freeimagetopdf.app really free with no limits?** Yes. No daily file limits, no watermarks, no account required.
+- **Can I use freeimagetopdf.app offline?** Yes. It works offline once the page has loaded.
+- **Which tool offers more page layout controls?** freeimagetopdf.app gives full control over page size, margins, orientation, image rotation, and output quality.
+
+---
+
+## freeimagetopdf.app vs SmallPDF
+URL: https://freeimagetopdf.app/vs-smallpdf.html
+
+SmallPDF is one of the most popular online PDF tools with a polished interface and massive feature set. But when you just need to convert images to PDF, you may not need everything SmallPDF offers.
+
+### What does SmallPDF do well?
+SmallPDF has a clean, intuitive interface. Beyond image-to-PDF, it offers PDF merging, splitting, compression, OCR, e-signing, and dozens of other tools. There is a desktop app for Windows and Mac, and Pro removes all restrictions.
+
+### Why choose freeimagetopdf.app instead?
+SmallPDF's free tier limits you to 2 tasks per day. freeimagetopdf.app has no daily limit at all. Privacy is the other major advantage — SmallPDF uploads files to its servers, while freeimagetopdf.app runs entirely in your browser.
+
+### Does freeimagetopdf.app offer the same page customization?
+It actually offers more control for image-to-PDF: five page sizes, three orientations, quality control, per-image rotation, and drag-and-drop reordering. SmallPDF's image-to-PDF tool is simpler by design.
+
+### Do I need to create an account for either tool?
+SmallPDF requires a Google or email sign-up. freeimagetopdf.app requires nothing — open the page, drop images, download the PDF.
+
+### Can I use freeimagetopdf.app offline?
+Yes. freeimagetopdf.app is a progressive web app that works offline. SmallPDF requires internet unless you install the desktop app.
+
+### Feature Comparison
+
+| Feature | freeimagetopdf.app | SmallPDF (Free) |
+|---|---|---|
+| Daily Limit | ✓ Unlimited | ✗ 2 tasks/day |
+| Privacy | ✓ 100% in-browser | ✗ Server upload |
+| Account Required | ✓ None | ✗ Sign-up needed |
+| Watermarks | ✓ Never | ✓ None on free tier |
+| Page Customization | ✓ 5 sizes, 3 orientations | ✗ Limited options |
+| Image Rotation | ✓ Per-image rotation | ✗ Not available |
+| Quality Control | ✓ Adjustable | ✗ Fixed |
+| Offline Use | ✓ PWA support | ✗ Requires internet |
+| Price | ✓ Free forever | ✗ $12/mo for Pro |
+
+### When should you pick SmallPDF?
+If you need merging, compressing, e-signatures, OCR — SmallPDF Pro is worth the investment at $12/month. But for straightforward image-to-PDF conversion, freeimagetopdf.app does it better, for free.
+
+### FAQ
+- **Is freeimagetopdf.app really free with no limits?** Yes. 100% free with no daily task limits, no watermarks, no account required. SmallPDF limits free users to 2 tasks per day.
+- **Does SmallPDF upload my images to its servers?** Yes. freeimagetopdf.app processes everything in your browser.
+- **When should I choose SmallPDF over freeimagetopdf.app?** SmallPDF Pro is excellent for heavy users who need a full document toolkit. If you only need image to PDF conversion, freeimagetopdf.app is the better choice.
+- **Can I use freeimagetopdf.app offline?** Yes. It works offline after the first visit as a progressive web app.
+
+---
+
+## freeimagetopdf.app vs Adobe Acrobat
+URL: https://freeimagetopdf.app/vs-adobe.html
+
+Adobe Acrobat is the gold standard for PDF software. But if all you need is to turn images into a PDF, do you really need a $20/month subscription?
+
+### What makes Adobe Acrobat the industry standard?
+Adobe invented the PDF format. Acrobat offers advanced editing, OCR, digital signatures, redaction, form creation, accessibility tools, and enterprise integrations. Trusted across legal, financial, and government industries.
+
+### Why would you choose freeimagetopdf.app instead?
+Most people searching for "image to PDF" don't need advanced features. freeimagetopdf.app runs entirely in your browser — no credit card, no email, no account. Images never leave your device. The whole process takes seconds and costs nothing.
+
+### How much does Adobe Acrobat cost compared to freeimagetopdf.app?
+Adobe Acrobat Pro: $19.99/month. Standard: $12.99/month. Even the free Reader only views PDFs. freeimagetopdf.app is completely free — no trial period, no feature gating, no surprise charges.
+
+### Is freeimagetopdf.app more private than Adobe Acrobat?
+Yes. Adobe processes files through cloud infrastructure and requires an Adobe ID. freeimagetopdf.app processes everything client-side. No server ever touches your files.
+
+### Can freeimagetopdf.app replace Adobe Acrobat entirely?
+No, and it's not trying to. Adobe Acrobat does a hundred things. freeimagetopdf.app does one thing well: convert images to PDF. If you need text editing, OCR, or digital signatures, use Acrobat. For image-to-PDF, freeimagetopdf.app saves time and money.
+
+### Feature Comparison
+
+| Feature | freeimagetopdf.app | Adobe Acrobat |
+|---|---|---|
+| Price | Free | $12.99 – $19.99/mo |
+| Account required | ✗ No | ✓ Yes |
+| Install required | ✗ No | ✓ Yes (desktop) / No (web) |
+| Privacy (local processing) | ✓ 100% local | ✗ Cloud / local hybrid |
+| Image to PDF | ✓ Yes | ✓ Yes |
+| PDF editing | ✗ No | ✓ Full editing |
+| Batch convert | ✓ Unlimited | ✓ Yes |
+| Page size & orientation | ✓ Yes | ✓ Yes |
+| Works offline | ✓ Yes (PWA) | ✓ Desktop app only |
+| Output quality | High | Highest |
+
+### Who should use which tool?
+Choose Adobe Acrobat for daily PDF editing, annotation, forms, or enterprise collaboration. Choose freeimagetopdf.app for quick, free, private image-to-PDF conversion.
+
+### FAQ
+- **Is freeimagetopdf.app really free compared to Adobe Acrobat?** Yes. 100% free with no limits. Adobe Pro costs $19.99/month.
+- **Does freeimagetopdf.app upload my images to a server?** No. All conversion happens in your browser. Adobe's online tools use cloud servers.
+- **Can freeimagetopdf.app replace Adobe Acrobat?** For image-to-PDF, yes. For advanced editing, OCR, signatures, or enterprise features, Adobe is still better.
+- **What image formats does freeimagetopdf.app support?** JPG, PNG, WebP, GIF, BMP, and TIFF. You can mix formats in a single conversion.
+- **Do I need to install anything?** No. freeimagetopdf.app runs in your browser. Works as a PWA for offline use.
+
+---
+
+## Convert JPG to PDF Free
+URL: https://freeimagetopdf.app/jpg-to-pdf.html
+
+JPG is the most widely used image format in the world. When you need to turn those images into a PDF, most online converters force you to upload your files to a remote server. With freeimagetopdf.app, you can convert JPG to PDF free entirely inside your browser.
+
+### Why Do People Convert JPG to PDF?
+Sharing photos as a single document, combining receipt photos into expense reports, creating portfolios, bundling whiteboard notes into study guides, archiving scanned photographs. PDF bridges the gap between casual image capture and structured document sharing.
+
+### How Does freeimagetopdf.app Handle JPG Conversion?
+The converter reads image data locally using browser APIs, embeds each JPG into a PDF page at your chosen dimensions and orientation. A quality slider controls compression during embedding. At maximum quality, output is virtually identical to the original. The entire process runs through JavaScript — no server round-trip, no file-size limits.
+
+### Why Does the Quality Slider Matter for JPG?
+JPG is a lossy format — every re-encoding discards some detail. At 100% quality, JPG is embedded with minimal additional loss. At 70%, file size drops considerably but you may notice softening. For print: 90-100%. For screen-only documents: 70-85%.
+
+### What Page Layout Options Are Available?
+Page sizes: Letter, A4, A3, A5, Legal, plus fit-to-image mode. Portrait, landscape, or auto-orientation. These options matter for portfolios, photo books, and professional documents.
+
+### Can You Batch Convert Many JPGs at Once?
+Yes. Drag dozens or hundreds of JPG files — reorder by dragging, rotate individual images, remove unwanted ones. Every image becomes one page. No cap on number of images since processing is local.
+
+### How to Convert JPG to PDF in Three Steps
+1. Open freeimagetopdf.app in any modern browser
+2. Drag and drop JPG/JPEG files, adjust quality, page size, orientation
+3. Click Generate PDF — downloads instantly
+
+### FAQ
+- **How do I convert JPG to PDF?** Open freeimagetopdf.app, drag and drop your JPG files, adjust settings, click Generate PDF. Everything runs in your browser.
+- **Is the JPG quality preserved?** You control it with a quality slider. At maximum quality, output is virtually indistinguishable from the original.
+- **Can I combine multiple JPGs into one PDF?** Yes. Drop as many as you need — combined into a single PDF with one image per page.
+- **What's the best quality setting for JPG to PDF?** Print: 90-100%. Screen-only: 70-85%. Archival: always maximum quality.
+- **Are my photos uploaded?** No. freeimagetopdf.app runs entirely in your browser. No server, no account, no data collection. Works offline.
+
+---
+
+## Convert PNG to PDF Free
+URL: https://freeimagetopdf.app/png-to-pdf.html
+
+PNG files are everywhere: screenshots, design exports, diagrams with transparent backgrounds. With freeimagetopdf.app, you can convert PNG to PDF free directly inside your browser. Nothing is uploaded, nothing leaves your device.
+
+### Why Convert PNG Images to PDF?
+PNG is the go-to format for screenshots, UI mockups, graphic designs, and images needing transparency. Converting to PDF lets you bundle screenshots into a single file, prepare design proofs, or archive graphics in a printable format.
+
+### How Does freeimagetopdf.app Handle PNG Files?
+The converter embeds image data losslessly into the PDF container. No re-encoding, no compression artifacts, no quality loss. Pixels in the output PDF are identical to the source PNG. Especially useful for screenshots of text, technical diagrams, and pixel-perfect graphics.
+
+### Is PNG Transparency Preserved When Converting to PDF?
+Yes. PNG's alpha channel is retained. Transparent and semi-transparent regions remain transparent in the PDF. Critical for logos, icons, and design exports.
+
+### Why Are PNG PDFs Larger Than JPG PDFs?
+PNG is lossless — stores every pixel without discarding data, often includes a full alpha channel. PNG files are typically 2-10x larger than equivalent JPGs, and that size difference carries into the PDF. If file size matters and you don't need transparency, JPG is usually better.
+
+### When Should You Use PNG vs JPG for PDF Conversion?
+Choose PNG for text, sharp edges, transparency, flat-color graphics (screenshots, diagrams, logos, UI exports). Choose JPG for photographs where smaller file size matters. freeimagetopdf.app supports both and you can mix them in the same PDF.
+
+### How to Convert PNG to PDF in Three Steps
+1. Open freeimagetopdf.app in any modern browser
+2. Drag and drop PNG files, or browse to select them
+3. Choose page size and orientation, click Generate PDF — downloads instantly
+
+### FAQ
+- **How do I convert PNG to PDF?** Open freeimagetopdf.app, drag and drop PNG files, adjust page size and orientation, click Generate PDF. No upload required.
+- **Is PNG transparency preserved in the PDF?** Yes. Alpha transparency is preserved exactly as it appears in the original file.
+- **Why are PNG PDFs larger than JPG PDFs?** PNG is lossless and often includes alpha channel data. If file size is a concern and you don't need transparency, use JPG instead.
+- **Can I convert multiple PNGs at once?** Yes. Drop as many as you need — combined into a single PDF with one image per page.
+- **Should I use PNG or JPG for my PDF?** Use PNG for transparency, sharp text, or pixel-perfect screenshots. Use JPG for photographs where smaller file size matters.

@@ -17,5 +17,13 @@ freeimagetopdf.app is a free, browser-based image to PDF converter. Convert JPG,
 - vs SmallPDF: freeimagetopdf.app has no daily file limit (SmallPDF limits free tier)
 - vs Adobe: freeimagetopdf.app requires no account or subscription
 
+## Pages
+- https://freeimagetopdf.app/ — Main app: free image to PDF converter
+- https://freeimagetopdf.app/vs-ilovepdf.html — Comparison: freeimagetopdf.app vs iLovePDF
+- https://freeimagetopdf.app/vs-smallpdf.html — Comparison: freeimagetopdf.app vs SmallPDF
+- https://freeimagetopdf.app/vs-adobe.html — Comparison: freeimagetopdf.app vs Adobe Acrobat
+- https://freeimagetopdf.app/jpg-to-pdf.html — Guide: Convert JPG to PDF free, no upload required
+- https://freeimagetopdf.app/png-to-pdf.html — Guide: Convert PNG to PDF free, no upload required
+
 ## URL
 https://freeimagetopdf.app/

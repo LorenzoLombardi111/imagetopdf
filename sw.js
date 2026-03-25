@@ -1,5 +1,5 @@
-const CACHE_NAME = 'img2pdf-v1';
-const ASSETS = ['/', '/index.html', '/manifest.json', '/og-image.svg'];
+const CACHE_NAME = 'img2pdf-v2';
+const ASSETS = ['/', '/index.html', '/manifest.json', '/og-image.svg', '/vs-ilovepdf.html', '/vs-smallpdf.html', '/vs-adobe.html', '/jpg-to-pdf.html', '/png-to-pdf.html'];
 
 self.addEventListener('install', (event) => {
   event.waitUntil(
